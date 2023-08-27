@@ -19,4 +19,6 @@ Once finished it also does docker compose down, for all this, we have windows ba
 This folder needs to be created where the docker-compose file is present, currently i added it as part of project.
 
 
-
+5: You can also run all this through jenkins
+   a. create a freestyle project, add below config
+      
