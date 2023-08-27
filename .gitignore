@@ -1,0 +1,21 @@
+# Maven
+target/
+*.iml
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iws
+.idea/
+*.ipr
+
+# TestNG
+test-output/
+
+# Logs
+*.log
+logs/
