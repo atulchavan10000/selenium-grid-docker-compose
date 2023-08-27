@@ -17,3 +17,6 @@
 5: After stopping the docker compose you will see videos recorded on this path on you local machine
 ./tmp/videos
 This folder needs to be created where the docker-compose file is present.
+
+6: You can also run tests with maven
+   With eclipse Run As "maven test"
