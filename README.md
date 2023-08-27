@@ -1,12 +1,13 @@
 # selenium-grid-docker-compose
 
 1: Run with
- 		$ docker-compose up
+   $ docker-compose up
 	 
 2: Selenium Grid ui
     http://localhost:4444/ui
     You will see ui like below, you can see nodes created there
-![image](https://github.com/atulchavan10000/selenium-grid-docker-compose/assets/16905901/689122d9-192b-4137-acce-f240f6f3b6ce)
+![image](https://github.com/atulchavan10000/selenium-grid-docker-compose/assets/16905901/d12d496f-d0d1-44a2-a080-d61691a862ad)
+
 
 3: You can scale the nodes with below command
    $ docker-compose up --scale chrome=3
